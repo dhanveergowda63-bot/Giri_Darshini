@@ -1,0 +1,8 @@
+{
+  "name": "Remix Giri Darshini Treks",
+  "description": "Guided Chikmagalur and Western Ghats trekking expeditions, curated mountain experiences, and field photography gallery by Giri Darshini Treks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
